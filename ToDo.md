@@ -6,3 +6,4 @@ List of Action:
 5) cd to that folder and Git Clone
 6) This will create the Repo
 7) Auto save option is enabled
+8) Use with Caution
